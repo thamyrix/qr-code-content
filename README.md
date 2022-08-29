@@ -20,7 +20,7 @@ This is my first project ever, so it was a great experience to practice some of 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.JPG)
 
 ### Links
 
