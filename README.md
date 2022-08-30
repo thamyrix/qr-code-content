@@ -24,7 +24,7 @@ This is my first project ever, so it was a great experience to practice some of 
 
 ### Links
 
-- Live Site URL: [QR Code Content](https://thamyrix-qr-code.netlify.app/)
+- Live Site URL: [QR Code Content](https://thamyrix-qr-code-2.netlify.app/)
 
   
 
