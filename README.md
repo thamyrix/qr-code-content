@@ -2,7 +2,10 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-This is my first project ever, so it was a great experience to practice some of the lessons that i've been learning.
+This is my first project ever, so it was a great experience to practice some of the lessons that i've been learning. 
+
+###Update
+I've submitted this project on Frontend Mentor, received some advices and I updated the code, specially adding the <main> and media query, making it responsive for mobile and desktop.
 
 ## Table of contents
 
@@ -20,7 +23,7 @@ This is my first project ever, so it was a great experience to practice some of 
 
 ### Screenshot
 
-![](./screenshot.JPG)
+![](./screenshot2.JPG)
 
 ### Links
 
